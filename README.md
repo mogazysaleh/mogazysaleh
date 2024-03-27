@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Saleh</h1>
-<h3 align="center">A passionate developer from Egypt</h3>
+<h3 align="center">A passionate senior Communications and Information Engineering student from Egypt</h3>
 
 - 📫 How to reach me **mogazysaleh@gmail.com**
 
